@@ -15,7 +15,7 @@ asyncpg==0.31.0
 greenlet==3.5.2
 PyJWT[crypto]==2.13.0
 passlib[bcrypt]==1.7.4
-litellm==1.83.7
+litellm==1.93.0
 solana==0.37.1
 # anchorpy intentionally omitted: unused in the application codebase and
 # incompatible with the upgraded solana/httpx stack used to clear pip-audit findings.
